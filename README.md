@@ -1,35 +1,12 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# Carolina Simoes
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Buenas, me llamo Carolina, estoy en el 3er cuatrimestre de programacion.
+Siempre me gusto aprender de nuevos temas y asi fue como hace unos aÃ±os me empezo a llamar la atencion el mundo de la informatica y, despues de averiguar un poco y realizar unos cursos, me meti de lleno en la carrera. Realmente es algo que me gusta y apasiona, me sorprendi a mi misma entrando a esta carrera ya que nunca fui de las personas que se interesaba mucho por el mundo tecnologico en si
+Tambien me ayudo mi novio, quien esta estudiando por su cuenta y me hablaba del tema
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+## Mis gustos
+* Leer
+* Dibujar y mucho relacionado a las manualidades (soy tatuadora, tejo en crochet, solia vender cuadros, etc)
+* Actividad fisica (gimnasio, y recientemente empece a correr un poco) 
